@@ -1,47 +1,66 @@
-📱 Flutter Chat App UI
-A simple chat application frontend built with Flutter. This project includes a single page UI showcasing a chat screen.
-
-📸 Screenshot
-<br><br>
-<img src="assets/home.png" alt="Chat Screen" style="width: 20%; max-width: 200px;">
-<br><br>
-<img src="assets/dp.png" alt="Chat Screen" style="width: 20%; max-width: 200px;">
+Here’s the corrected and properly formatted `README.md` file with improved structure and formatting:
 
 
-🚀 Getting Started
-Prerequisites
-Install Flutter SDK
-Setup an IDE (Android Studio / VS Code)
-Installation
-Clone the repository:
+# 📱 Flutter Chat App UI  
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/flutter-chat-ui.git
-cd flutter-chat-ui
-Install dependencies:
+A simple chat application frontend built with **Flutter**. This project includes a single-page UI showcasing a chat screen.  
 
-bash
-Copy
-Edit
-flutter pub get
-Run the app:
+---
 
-bash
-Copy
-Edit
-flutter run
-📂 Project Structure
-bash
-Copy
-Edit
+## 📸 Screenshots  
+
+<p align="center">
+  <img src="assets/home.png" alt="Home Screen" style="width: 20%; max-width: 200px;">
+  <img src="assets/dp.png" alt="Chat Screen" style="width: 20%; max-width: 200px;">
+</p>
+
+---
+
+## 🚀 Getting Started  
+
+### Prerequisites  
+
+- Install [Flutter SDK](https://flutter.dev/docs/get-started/install)  
+- Setup an IDE (Android Studio / VS Code)  
+
+### Installation  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/VickyDev810/DemoChat.git
+   ```
+
+2. **Install dependencies:**  
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the app:**  
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 📂 Project Structure  
+
+```
 lib/
-│── main.dart          # Main entry point
-│── home_page.dart   # UI screen for chat
-│── components/          
-│── utils/            #custom clipper and colors
-📜 License
-This project is licensed under the MIT License.
+│── main.dart         # Main entry point
+│── home_page.dart    # UI screen for chat
+│── components/       # Reusable UI components
+│── utils/            # Custom clippers, colors, and utilities
+```
 
-👨‍💻 Developed with ❤️ by [Your Name]
+---
+
+## 📜 License  
+
+This project is licensed under the **MIT License**.  
+
+---
+
+👨‍💻 Developed with ❤️ by **VEER VIKRAM SINGH**  
+
+---
+
