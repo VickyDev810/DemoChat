@@ -2,8 +2,8 @@
 A simple chat application frontend built with Flutter. This project includes a single page UI showcasing a chat screen.
 
 📸 Screenshot
-[Chat Page]{assets/home.png}
-[DP]{assets/dp.png}
+![Chat Page](assets/home.png)
+![DP](assets/dp.png)
 
 🚀 Getting Started
 Prerequisites
